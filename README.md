@@ -1,2 +1,2 @@
 # TheProject
-Perhaps a game, shall it be chaps?
+Welcome to my ever-so unknown project, folks!
